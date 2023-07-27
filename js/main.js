@@ -35,7 +35,7 @@ $(function () {
   // page loading
   $(document).ready(function () {
     document.getElementById("copyright").innerHTML =
-      "© " + new Date().getFullYear() + " Huateng Fang";
+      "© " + new Date().getFullYear() + " Zhming";
     anime({
       targets: ".art-preloader .art-preloader-content",
       opacity: [0, 1],
